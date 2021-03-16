@@ -3,5 +3,5 @@
 
 ## Source and Code
 https://github.com/Gaelim
-Skills 
-Python and pnadas
+languages use
+Python and pandas
